@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Service, PortfolioItem } from './types';
 
@@ -86,7 +85,7 @@ export const PORTFOLIO: PortfolioItem[] = [
   { id: 1, imageUrl: 'https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&q=80&w=800', category: 'Live Mixing', title: 'Concertgebouw Live' },
   { id: 2, imageUrl: 'https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?auto=format&fit=crop&q=80&w=800', category: 'Evenementen', title: 'Bedrijfsfeest XL' },
   { id: 3, imageUrl: 'https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?auto=format&fit=crop&q=80&w=800', category: 'Support', title: 'Studio Inrichting' },
-  { id: 4, imageUrl: 'https://images.unsplash.com/photo-1459749411177-042180ce6742?auto=format&fit=crop&q=80&w=800', category: 'Live Mixing', title: 'Festival Zomer' },
+  { id: 4, imageUrl: 'https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&q=80&w=800', category: 'Live Mixing', title: 'Festival Zomer' },
   { id: 5, imageUrl: 'https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&q=80&w=800', category: 'Evenementen', title: 'Product Lancering' },
   { id: 6, imageUrl: 'https://images.unsplash.com/photo-1493225255756-d9584f8606e9?auto=format&fit=crop&q=80&w=800', category: 'Support', title: 'Technisch Advies' },
 ];
