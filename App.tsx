@@ -6,6 +6,7 @@ import Services from './components/Services';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import OnboardingForm from './components/OnboardingForm';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <main>
         <Hero />
         <Services />
+        <OnboardingForm />
         <Portfolio />
         <Contact />
       </main>
