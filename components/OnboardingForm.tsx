@@ -1,7 +1,7 @@
 
 import React, { useState, useCallback, useMemo } from 'react';
 import { Send, CheckCircle2, ArrowRight, ArrowLeft, Check, Mail, Phone, MessageSquare, Loader2, AlertCircle } from 'lucide-react';
-import emailjs from 'https://esm.sh/@emailjs/browser@^4.1.1';
+import emailjs from '@emailjs/browser';
 
 // --- Types ---
 type StepId = 
